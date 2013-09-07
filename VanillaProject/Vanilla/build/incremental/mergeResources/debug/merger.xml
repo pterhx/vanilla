@@ -50,6 +50,8 @@
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
+                <string name="payper" >payper
+                </string>
             </file>
             <file
                 path="/Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/src/main/res/values/styles.xml"
@@ -90,6 +92,16 @@
                     <!-- API 11 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="background"
+                path="/Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/src/main/res/drawable/background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="background"
+                path="/Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/src/main/res/drawable-hdpi/background.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
         </source>
         <source path="/Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/res/rs/debug" />
     </dataSet>

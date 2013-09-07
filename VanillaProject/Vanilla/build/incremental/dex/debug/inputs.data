@@ -1,15 +1,15 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1378569936000 475 edd63f465ba6540653aa8cc62280dbe5763c691b /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$string.class
-1378569936000 396 3f0751e9ee86acabb6da7457ce928e4bd7e7e029 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$id.class
+1378579933000 505 152170bbddd65051a5d943da5385bb5baee19f91 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$string.class
+1378579933000 426 2e04d9c0dcf4814f7b7b85068df0b4c3c761c989 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$id.class
 1378569936000 343 54b9a9545ce396d6c973695782d7c34b96edd13c /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$attr.class
 1378569936000 819 d1fd9c863a1590a741c34087f492f8b96b16b666 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/MainActivity.class
-1378569936000 687 a1bee15ba6650257af3269fe9ac895e6faf52468 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R.class
-1378569936000 434 05c20984f871bef08e6f4f9d61ce53e53b66b14b /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$style.class
-1378569936000 391 d4637f746f26015d1c31a8db19c685185976a3f4 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$menu.class
+1378579933000 687 684a56beaa4e1ef57db44b343b7932bf7cf5c9cf /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R.class
+1378579933000 434 925d60e7ab152a8bdd740e26ef799b03ae8e7245 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$style.class
+1378579933000 391 aa05db0597509d6ffc4413c790b42312e2701258 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$menu.class
 1378569936000 347 1ad84fc6e84e4a7c096c69b917542b73eab3ca83 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/BuildConfig.class
 1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
-1378569936000 410 7568b01cf7f1f88bcc674b2825b965e21f1edc9d /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$drawable.class
+1378577750000 444 7da6eb7b8542408f360a130370dc11b42675f0e4 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$drawable.class
 1378569936000 464 e1ccca9177728da7c8560fec695649f989ebd57e /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$dimen.class
-1378569936000 397 6407acac3125623c746b567af2d6ee01b0624a5a /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$layout.class
+1378579933000 397 db22e2ad146e85a6204301a59051ee6e3bf595c9 /Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/build/classes/debug/com/example/vanilla/R$layout.class

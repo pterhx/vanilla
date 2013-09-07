@@ -8,6 +8,7 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Vanilla</string>
     <string name="hello_world">Hello world!</string>
+    <string name="payper">payper</string>
     <!-- From: file:/Users/pterx/Dropbox/Code/vanilla/VanillaProject/Vanilla/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
